@@ -7,9 +7,9 @@
 # unless the year is also evenly divisible by 400
 # 2021 /400 = 5.0525 (not leap)
 
-# 🚨 Don't change the code below 👇
+
 year = int(input("Which year do you want to check? "))
-# 🚨 Don't change the code above 👆
+
 
 # Refer to the flow chart here: https://bit.ly/36BjS2D
 
